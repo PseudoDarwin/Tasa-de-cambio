@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasadeCambios", "TasadeCambios\TasadeCambios.csproj", "{674608FC-3349-4A2D-B0A3-D8A3BA75D2FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conexion", "Conexion\Conexion.csproj", "{F3DCE397-A1B4-4243-8671-BF12D886F688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{5937D5C2-0B52-4949-A650-4214D053C40A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{674608FC-3349-4A2D-B0A3-D8A3BA75D2FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{674608FC-3349-4A2D-B0A3-D8A3BA75D2FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{674608FC-3349-4A2D-B0A3-D8A3BA75D2FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{674608FC-3349-4A2D-B0A3-D8A3BA75D2FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3DCE397-A1B4-4243-8671-BF12D886F688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3DCE397-A1B4-4243-8671-BF12D886F688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3DCE397-A1B4-4243-8671-BF12D886F688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3DCE397-A1B4-4243-8671-BF12D886F688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5937D5C2-0B52-4949-A650-4214D053C40A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5937D5C2-0B52-4949-A650-4214D053C40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5937D5C2-0B52-4949-A650-4214D053C40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5937D5C2-0B52-4949-A650-4214D053C40A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58355ADB-BE0F-4208-BA4A-4D807A9471AC}
+	EndGlobalSection
+EndGlobal
